@@ -1,0 +1,6 @@
+Uygulama: Kartaltepe POS
+Teknoloji: Flutter
+Hedef site: https://restoran.turkaix.com
+Organizasyon: com.turkaix
+Proje adı: kartaltepe_pos
+Android minimum SDK: webview_flutter gereği API 24+
